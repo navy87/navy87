@@ -1,4 +1,4 @@
-This repo has been moved to @yahyafati
+This repo has been moved to [@yahyafati](https://github.com/yahyafati)
 
 - 👋 Hi, I’m @navy87
 - 👀 I’m interested in ...
